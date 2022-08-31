@@ -5,4 +5,5 @@
 4-listmorefiles displays current directory contents, including hidden files (long format)
 5-listfilesdigitonly displays cotents long form with user groups and IDs numerically and all hidden files
 6-firstdirectory creates a new directory in /tmp called my_first_directory
+77-movethatfile will move the file Betty from /tmp to /tmp/my_first_directory
 
