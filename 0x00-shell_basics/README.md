@@ -8,4 +8,5 @@
 77-movethatfile will move the file Betty from /tmp to /tmp/my_first_directory
 8-firstdele will delete the file berty in /tmp/my_first_directory
 9-firstdirdeletion dletes the directory my_first_directory in /tmp
+`0-back changes working directory to previous one
 
