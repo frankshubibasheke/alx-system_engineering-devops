@@ -14,4 +14,4 @@
 13-symbolic_link creates a symbolic link to /bin/ls named __ls__
 14-copy_html copies all html files from current directory to the parent
 100-lets_move moves files begining with an uppercase to the directory /tmp/u
-
+102-tree creates the directory welcome, welcome/to/ and welcome/to/school in current working directory
