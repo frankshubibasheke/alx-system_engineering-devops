@@ -17,3 +17,4 @@
 101-clean_emacs deletes emac files
 102-tree creates the directory welcome, welcome/to/ and welcome/to/school in current working directory
 103-commas lists files sepated with commas
+school.mgc creates magic file school.mgc to detect School data files
